@@ -22,6 +22,10 @@ It is built with **React + Vite** and styled using **Material UI**.
  🎨 Material UI
  🔧 JavaScript (ES6+)
 
+## 🖼️ Screenshots
+
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/92ed193c-8bf1-4dfb-8d39-9b62dbb9a43d" />
+
 
 ## 📂 Installation & Setup
 
